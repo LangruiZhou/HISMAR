@@ -1,7 +1,6 @@
 # HISMAR: Metal-Artifact-Dataset
-Metal artifact dataset produced by the Medical Imaging and Artificial Intelligence Laboratory, Southeast University, China
 
-This dataset is the real data used in **MARGANVAC** `(doi:10.1088/1361-6560/acf8ac)`, produced by Medical Imaging & Artificial Intelligence Laboratory of Southeast University and HisField. 
+This dataset is the real data used in **MARGANVAC** `(doi:10.1088/1361-6560/acf8ac)`, produced by *Medical Imaging & Artificial Intelligence Laboratory of Southeast University* and *HisField*. 
 
 If you need to use this data in your paper, please cite as follows:
 ```
