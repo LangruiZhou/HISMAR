@@ -1,6 +1,6 @@
 # HISMAR: Metal-Artifact-Dataset
 
-This dataset is the real data used in **MARGANVAC** `(doi:10.1088/1361-6560/acf8ac)`, produced by *Jiangsu Key Laboratory for Biomaterials and Devices, School of Biological Science and Medical Engineering, Southeast University*.
+This dataset is the real data used in **MARGANVAC** `(doi:10.1088/1361-6560/acf8ac)`, produced by *School of Biological Science and Medical Engineering, Southeast University*.
 
 If you need to use this data in your paper, please cite as follows:
 ```
